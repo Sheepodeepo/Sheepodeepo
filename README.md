@@ -3,13 +3,14 @@ I'm a recent college graduate looking for Software Engineering roles but also op
 
 I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to incorporate and utilize in production environment. 
 
-### 💻 Tech Stack 
+### 💻 Main Tech Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Java**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> **Python**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/> **TypeScript**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> **C++**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> **React**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React**
+
 
 ### Github Stats 
 ![Top Used Langagues](https://github-readme-stats.vercel.app/api/top-langs/?username=sheepodeepo&theme=tokyonight)
