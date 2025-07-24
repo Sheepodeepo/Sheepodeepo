@@ -1,5 +1,5 @@
 ## 👋 About Me 
-I'm a recent college graduate looking for Software Engineering roles but also open to other Electrical Engineering roles! I'm a developer focused on Backend development especially Springboot. However, I'm open to trying other fields such as Mobile Development with **Swift** and Systems Programming and Lower Level Languages with **C++/Rust**. 
+I'm a recent college graduate looking for Software Engineering roles but also open to Electrical Engineering roles! I'm a developer focused on Backend development especially Springboot. However, I'm open to trying other fields such as Mobile Development with **Swift** and Systems Programming and Lower Level Languages with **C++/Rust**. 
 
 I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to incorporate and utilize in production environment. 
 
