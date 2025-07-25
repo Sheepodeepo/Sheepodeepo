@@ -17,7 +17,7 @@ I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to inco
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sheepodeepo&theme=algolia&show_icons=true)](https://github.com/sheepodeepo)
 
 ### ☁️ Hobbies/Facts 
-I love reading manga, watching anime, and reading web-novels. My favorite mangas so far are **Vinland Saga** and **Blue Lock**. I also like playing video games and have played League of Legends, Valorant, Zelda: Breath of the Wild ❤️, and many more! 
+I love reading manga, watching anime, and reading web-novels. My curren top 3 mangas so far are **Vinland Saga**, **Blue Lock**, and **Haikyuu**. I also like playing video games and have played League of Legends, Valorant, Zelda: Breath of the Wild ❤️, and many more! 
 <!--
 C++: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++**
 
