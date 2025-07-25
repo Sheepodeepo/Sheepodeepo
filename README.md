@@ -8,7 +8,6 @@ I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to inco
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> **Python**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/> **TypeScript**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React**
 
 
@@ -20,6 +19,8 @@ I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to inco
 ### Hobbies/Facts 
 I love reading manga, watching anime, and reading web-novels. My favorite mangas so far are **Vinland Saga** and **Blue Lock**. I also like playing video games and have played League of Legends, Valorant, Zelda: Breath of the Wild ❤️, and many more! 
 <!--
+C++: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++**
+
 **Sheepodeepo/Sheepodeepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
