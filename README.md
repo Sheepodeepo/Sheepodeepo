@@ -11,12 +11,12 @@ I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to inco
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React**
 
 
-### Github Stats 
+### 💯Github Stats 
 ![Top Used Langagues](https://github-readme-stats.vercel.app/api/top-langs/?username=sheepodeepo&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sheepodeepo&theme=algolia&show_icons=true)](https://github.com/sheepodeepo)
 
-### Hobbies/Facts 
+### ☁️ Hobbies/Facts 
 I love reading manga, watching anime, and reading web-novels. My favorite mangas so far are **Vinland Saga** and **Blue Lock**. I also like playing video games and have played League of Legends, Valorant, Zelda: Breath of the Wild ❤️, and many more! 
 <!--
 C++: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++**
