@@ -1,7 +1,7 @@
 ## 👋 About Me 
 I'm a recent college graduate looking for Software Engineering roles but also open to Electrical Engineering roles! I'm a developer focused on Backend development especially Springboot. However, I'm open to trying other fields such as Mobile Development with **Swift** and Systems Programming and Lower Level Languages with **C++/Rust**. 
 
-I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to incorporate and utilize in production environment. 
+I'm currently learning on more Cloud tools such as AWS with EC2, S3, etc to incorporate and utilize in production environment. I'm also exploring more in AI Space from basic ML algorithms to building AI Agents with the MCP Architecture.
 
 ### 💻 Main Tech Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Java**
