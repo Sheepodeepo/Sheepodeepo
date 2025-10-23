@@ -6,6 +6,8 @@ Currently, I've been exploring more engineering solutions using AI through Hacka
 ### ☁️ Hobbies/Facts 
 I love reading manga, watching anime, and reading web-novels. My current top 3 mangas so far are **Vinland Saga**, **Blue Lock**, and **Haikyuu**. I also like playing video games and have played League of Legends, Valorant, Zelda: Breath of the Wild ❤️, and many more! 
 
+If you're interested in reaching out to me! Feel free to reach out to me through LinkedIn and connect with me on LinkedIn!
+
 ### 💻 Main Tech Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Java**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> **Python**
