@@ -4,7 +4,7 @@ I'm a recent college graduate based in the Bay Area! I'm a developer focused on 
 Currently, I've been exploring more engineering solutions using AI through Hackathons creating very interesting real world applications and winning prizes as well! Check out this hackathon winning [demo](https://www.youtube.com/watch?v=sQS5CLRmQZY) of an AI Agent that I especially proud of building with a few friends, integrating RAG and MCP Server/Client to build an AI Agent for Marketing!
 
 ### ☁️ Hobbies/Facts 
-I love reading manga, watching anime, and reading web-novels. My curren top 3 mangas so far are **Vinland Saga**, **Blue Lock**, and **Haikyuu**. I also like playing video games and have played League of Legends, Valorant, Zelda: Breath of the Wild ❤️, and many more! 
+I love reading manga, watching anime, and reading web-novels. My current top 3 mangas so far are **Vinland Saga**, **Blue Lock**, and **Haikyuu**. I also like playing video games and have played League of Legends, Valorant, Zelda: Breath of the Wild ❤️, and many more! 
 
 ### 💻 Main Tech Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Java**
